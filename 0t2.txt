@@ -1,1 +1,2 @@
-only test02.
+no only test02.
+This is test too.
